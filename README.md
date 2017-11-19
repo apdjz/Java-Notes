@@ -1,2 +1,1 @@
-# checkpoint-review
-Review Notes
+Go to the wiki
